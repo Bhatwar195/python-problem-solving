@@ -29,4 +29,4 @@ def lcm(a,b):
 #Test 
 a=int(input("Enter the number for GCD ::"))
 b=int(input())
-print("GCD::",lcm(a,b))
+print("LCM::",lcm(a,b))
